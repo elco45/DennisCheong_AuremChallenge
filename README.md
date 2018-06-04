@@ -1,8 +1,14 @@
-### Pup
-A boilerplate for products.
+## Aurem Challenge
+Used this boilerplate: [Pup](http://cleverbeagle.com/pup)
 
-[Read the Documentation](http://cleverbeagle.com/pup)
+### Steps
 
----
-
-Need help and want to stay accountable building your product? [Check out Clever Beagle](http://cleverbeagle.com).
+```
+npm clone https://github.com/elco45/DennisCheong_AuremChallenge.git
+```
+```
+npm i
+```
+```
+npm start
+```
