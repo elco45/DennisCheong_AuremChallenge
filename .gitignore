@@ -1,4 +1,6 @@
 node_modules
+package-lock.json
+yarn.lock
 settings-demo.json
 settings-staging.json
 settings-production.json
